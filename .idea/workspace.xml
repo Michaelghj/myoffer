@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28fa4e98-29c1-486b-935c-251493394d0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/lru/LRULinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/src/com/ghj/connection/ConnectionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/work_design/src/com/ghj/Singleton/Singleton01.java" afterDir="false" />
@@ -71,11 +71,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="47">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,6 +129,8 @@
         <option value="$PROJECT_DIR$/src/com/ghj/offer/Find.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead01.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead02.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead03.java" />
       </list>
     </option>
   </component>
@@ -207,18 +236,18 @@
       <updated>1571271345898</updated>
       <workItem from="1571271348997" duration="1705000" />
       <workItem from="1571556080998" duration="6097000" />
-      <workItem from="1571564415545" duration="242000" />
+      <workItem from="1571564415545" duration="3739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8044000" />
+    <option name="totallyTimeSpent" value="11541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -235,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -296,8 +325,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="47">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
