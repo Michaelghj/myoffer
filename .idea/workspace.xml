@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28fa4e98-29c1-486b-935c-251493394d0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/offer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/offer/Fibonacci.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/src/com/ghj/connection/ConnectionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/work_design/src/com/ghj/Singleton/Singleton01.java" afterDir="false" />
@@ -20,15 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="331">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
               <folding>
+                <element signature="e#149#158#0" expanded="true" />
+                <element signature="e#196#205#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#221#222#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -58,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead02.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/PrintListFromTailToHead03.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/offer/Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -165,12 +177,12 @@
       <workItem from="1571271348997" duration="1705000" />
       <workItem from="1571556080998" duration="6097000" />
       <workItem from="1571564415545" duration="5882000" />
-      <workItem from="1571660850491" duration="1456000" />
+      <workItem from="1571660850491" duration="4901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15140000" />
+    <option name="totallyTimeSpent" value="18585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -278,12 +290,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="331">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
           <folding>
+            <element signature="e#149#158#0" expanded="true" />
+            <element signature="e#196#205#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#221#222#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/offer/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
         </state>
       </provider>
     </entry>
