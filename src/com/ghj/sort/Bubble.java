@@ -1,5 +1,8 @@
 package com.ghj.sort;
 
+/**
+ * 冒泡排序
+ */
 public class Bubble {
     public void bubbleSort(int[] arr){
         if (arr == null|| arr.length < 2){

@@ -1,5 +1,8 @@
 package com.ghj.sort;
 
+/**
+ * 选择排序
+ */
 public class Selection {
     public void selection(int[] arr){
         if (arr ==  null || arr.length < 2){

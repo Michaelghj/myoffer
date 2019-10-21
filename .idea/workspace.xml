@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28fa4e98-29c1-486b-935c-251493394d0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/sort/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/sort/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/sort/Insertion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/jdbc01/src/com/ghj/connection/ConnectionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../work/work_design/src/com/ghj/Singleton/Singleton01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/sort/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/sort/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/sort/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/sort/Selection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,17 +74,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="38">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Bubble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Bubble.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -116,8 +125,9 @@
         <option value="$PROJECT_DIR$/src/com/ghj/offer/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/offer/JumpFloor.java" />
-        <option value="$PROJECT_DIR$/src/com/ghj/sort/Selection.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/sort/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/sort/Selection.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/sort/Insertion.java" />
       </list>
     </option>
   </component>
@@ -227,12 +237,12 @@
       <workItem from="1571564415545" duration="5882000" />
       <workItem from="1571660850491" duration="5598000" />
       <workItem from="1571668506544" duration="2382000" />
-      <workItem from="1571694402253" duration="1142000" />
+      <workItem from="1571694402253" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22806000" />
+    <option name="totallyTimeSpent" value="23149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -359,17 +369,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Selection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="38">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Bubble.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="38">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
